@@ -1,6 +1,6 @@
 # All Restaurants in Fontana, California, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `313413` |
 | Location | Fontana |
 | Category | Restaurants |
-| Full dataset size | 340 records |
-| Free sample size | 34 records (10.0%) |
-| Last export | 2026-04-09T12:59:57.920608+00:00 |
+| Full dataset size | 338 records |
+| Free sample size | 33 records (9.76%) |
+| Last export | 2026-04-16T13:05:27.433015+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fontana-california-us-sample-313413/releases/download/sample-latest/beamstation_313413_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
