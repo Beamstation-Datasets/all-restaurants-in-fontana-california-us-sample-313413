@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5577955d-edcf-4faa-8004-6282b76c5d28",
+  "export_job_id": "d7d602b1-e0e7-4381-9149-1c7d805ef74e",
   "id_short": 313413,
-  "published_at": "2026-04-23T19:08:13Z",
+  "published_at": "2026-05-01T07:02:39Z",
   "repo_name": "all-restaurants-in-fontana-california-us-sample-313413",
   "sample_asset_name": "beamstation_313413_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/313413/beamstation_313413_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "4ef56a25bfb4d70cb95dece45bbc71a38d83f69571cc91800f847152e0276b66",
-  "sample_size_bytes": 100164,
-  "total_records": 334
+  "sample_records": 30,
+  "sample_sha256": "5da7d4c5e1a576acca70ff4937a6139c587146d95b8cf011f8b115461f3eb39f",
+  "sample_size_bytes": 118077,
+  "total_records": 309
 }
